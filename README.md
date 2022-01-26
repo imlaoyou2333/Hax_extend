@@ -12,3 +12,5 @@ Hax免费VPS自动续期
 # PS
 如果需要多帐号续期或提高成功率，请购买Pro
 https://shop.zeroteam.top/cart.php?a=add&pid=206
+
+# 新年快乐 闷声发大财！
