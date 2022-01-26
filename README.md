@@ -3,7 +3,7 @@ Hax免费VPS自动续期
 
 # 用法
 - 1.Star本项目
-- 2.Fork本项目
+- 2.Fork本项目 启用Action
 - 3.编辑Action文件 将USERNAME和PASSWORD修改为你自己的账号即可
 
 # 注意
