@@ -5,6 +5,7 @@ Hax免费VPS自动续期
 - 1.Star本项目
 - 2.Fork本项目 启用Action
 - 3.编辑Action文件 将USERNAME和PASSWORD修改为你自己的账号即可
+- ** 最好Clone下来新建一个私有仓库，否则你的密码暴露在GitHub很危险! **
 
 # 通知
 - 使用USERNAME中的TG账号提前私聊 @Hax_Renew_Helper_Bot 可获得续期成功通知
