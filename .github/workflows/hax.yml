@@ -6,7 +6,7 @@ on:
     - cron: '0 13 */1 * *'
 jobs:
   hax_renew:
-    runs-on: windows-2022
+    runs-on: windows-2018
     
     steps:
       - name: 'Renewing Hax VPS ....' 
