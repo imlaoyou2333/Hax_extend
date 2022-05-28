@@ -3,7 +3,7 @@ name: 'Hax Auto Renew'
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 13 */1 * *'
+    - cron: '0 10 */1 * *'
 jobs:
   hax_renew:
     runs-on: windows-2022
@@ -12,4 +12,4 @@ jobs:
       - name: 'Renewing Hax VPS ....' 
         run: |
           cmd /c curl -sSL -O https://github.com/CoiaPrant/Hax_extend/raw/main/HaxAutoReNew.exe
-          cmd /c HaxAutoReNew.exe -user "USERNAME" -password "PASSWORD"
+          cmd /c HaxAutoReNew.exe -user "1590115078" -password "wang132579"
