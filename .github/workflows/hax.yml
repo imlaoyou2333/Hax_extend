@@ -10,6 +10,10 @@ jobs:
     
     steps:
       - name: 'Renewing Hax VPS ....' 
+        shell: cmd
+        env:
+          SECRET_USERNAME: "5337543121"
+          SECRET_PASSWORD: "HaxTG@@VPS0218"
         run: |
-          cmd /c curl -sSL -O https://github.com/CoiaPrant/Hax_extend/raw/main/HaxAutoReNew.exe
-          cmd /c HaxAutoReNew.exe -user "USERNAME" -password "PASSWORD"
+         curl -sSL -O https://github.com/CoiaPrant/Hax_extend/raw/main/HaxAutoReNew.exe
+         HaxAutoReNew.exe -user "%SECRET_USERNAME%" -password "%SECRET_PASSWORD%"
