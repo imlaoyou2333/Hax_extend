@@ -1,5 +1,5 @@
 # 好像已经失效了
-怎么这么多人fork我的克隆？
+怎么这么多人fork我的备份？
 
 # Hax_extend
 Hax免费VPS自动续期
@@ -18,6 +18,6 @@ Hax免费VPS自动续期
 
 # PS
 如果需要多帐号续期或提高成功率，请购买Pro
-~~ https://shop.zeroteam.top/cart.php?a=add&pid=206 ~~已经没了
+~~https://shop.zeroteam.top/cart.php?a=add&pid=206~~ 已经没了
 
 # 新年快乐 闷声发大财！
